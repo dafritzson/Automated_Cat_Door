@@ -4,4 +4,4 @@ This is an Arduino script that reads the input from a PIR sensor to detect when 
 
 More context on why this was necessary: I purchased a cat door that fits into the window that opens to my apartment balcony so that my cat could go explore the outside world whenever she desired and get a daily does of the great outdoors. However, she is afraid of doors and can't seem to grasp the concept of opening the door herself. She will go through it in both directions if we hold it open for her though, hence the need for an automated way to open it.
 
-**Future improvements: Two parallel motors and/or stronger servo, better control of PIR motion detection to prevent false-positives.
+**Future improvements: Two parallel motors and/or stronger servo, better control of PIR motion detection to prevent false-positives.**
